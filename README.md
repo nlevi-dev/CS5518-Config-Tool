@@ -70,6 +70,12 @@ cmake --build . --config Release
 
 ---
 
+## Intellectual Property
+
+If you believe this repository infringes on your intellectual property, please reach out via [LinkedIn](https://www.linkedin.com/in/nlevi-dev), [email](nagyleventezsolt@gmail.com), or open a [GitHub issue](issues).
+
+---
+
 ## License
 
 MIT-0 — see [LICENSE](LICENSE).
